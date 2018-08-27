@@ -1,6 +1,7 @@
 #!/bin/bash
 
 # install apache if not already installed
+# this is sample comment
 apt-get install apache2 -y
 
 a2enmod proxy
